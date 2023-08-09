@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Hot and handsome Asad weds shaista on 21st may 2023</h1>   
+         <h1>Fipkrt mobile ofers ended by 31st August</h1>   
 	 
 
     </section>    
